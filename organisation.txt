@@ -1,0 +1,7 @@
+ngram(n)-> cree le dictionnaire de ngram adequat
+
+fitness(textchiffre, dictionnaire)-> evaluation du score d'un text chiffre
+
+hillclimbing(clé,textchiffre, iterloc, iterglob, fitness,dictionnaire)-> Application de l'algo de hill climbing avec une evaluation par fitness a chaque tour, et les bornes d'iteration sont variables
+
+cryptanalyse(textchiffre,n,clé_de_chifrage)
