@@ -1,0 +1,4 @@
+\begin{table}[]
+\begin{tabular}{|l|l|l|l|}
+\hline
+Iteration GLOBALE & Iteration LOCAL  & Cle  & SCORE & TIME \\ \hline
